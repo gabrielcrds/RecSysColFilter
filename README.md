@@ -1,7 +1,7 @@
 # RecSysColFilter
 A recommendation algorithm based on collaborative filtering, made with C++. 
 This was a programming activity of a class that I attended in the beginning of 2017.
-The theacher made a closed Kaggle competition for the class, and I got the fifth place. <br />
+The theacher made a closed Kaggle competition for the class. <br />
 <br />
 To see it working, you must provide two input files. First the ratings.csv file, with the
 ratings that you already have in the following sintax: <br />
