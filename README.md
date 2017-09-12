@@ -18,7 +18,7 @@ Then, a target.csv file, containing the user and item you want predictions about
 UserId:ItemId<br />
 u0026762:i2171847<br />
 u0026502:i0444778<br />
-...
+...<br />
 u0004598:i1411238<br />
 u0031317:i1496423<br />
 
